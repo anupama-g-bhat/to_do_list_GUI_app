@@ -43,3 +43,13 @@ Remove task: "🛒 Buy groceries"
 
 📅 Screenshots
 ![alt text](<Screenshot 2025-04-12 181430.png>)
+
+
+---
+
+🛠️ **Future Plans**  
+- [ ] Add checkboxes for tasks  
+- [ ] Save tasks to a file  
+- [ ] Add dark mode 🌙  
+
+🚀 Stay productive and keep building! 💪
